@@ -57,3 +57,4 @@ while True:
         print('Não Indentifiquei a opção selecionada, por favor digite novamente.')
 print('='*40)
 print('Obrigado por usar o Banco-DIO! Volte sempre!')
+print('='*40)
